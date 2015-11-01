@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         let priceInferred = 19.99
         let priceExplicit: Double = 19.99
+        
     }
 
     override func didReceiveMemoryWarning() {
